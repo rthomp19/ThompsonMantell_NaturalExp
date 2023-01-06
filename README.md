@@ -1,1 +1,0 @@
-# ThompsonMantell_NaturalExp
